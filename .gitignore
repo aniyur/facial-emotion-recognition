@@ -1,5 +1,7 @@
 emotion-recognition/node_modules
 emotion-recognition/README.md
 emotion-recognition/.gitignore
+emotion-recognition/build
 server/server
 server/__pycache__
+.venv
